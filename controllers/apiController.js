@@ -50,7 +50,7 @@ module.exports = {
         name: "Happy Family",
         rate: 4.55,
         content: "What a great trip with my family and I should try again next time soon ...",
-        familyName: "Angga",
+        familyName: "Ricad Agustin",
         familyOccupation: "Product Designer"
       }
 
